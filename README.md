@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi, I'm Praise!
+
+🌱 Cybersecurity professional showcasing my learning journey in tech.<br/>
+😄 Studied Cybersecurity at the university of EDUVOS, South Africa.<br/>
+🔭 Currently working on obtaining the CompTIA A+, N+, S+, and P+ certificates.<br/>
+
 
 <!--
 **KingKai025/KingKai025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

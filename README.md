@@ -2,7 +2,7 @@
 
 🌱 Cybersecurity professional showcasing my learning journey in tech.<br/>
 😄 Studied Cybersecurity at the university of EDUVOS, South Africa.<br/>
-🔭 Currently working on obtaining the CompTIA A+, N+, S+, and P+ certifications.<br/>
+🔭 Successfully obtained the CompTIA A+, N+, and S+ certifications.<br/>
 
 ---
 

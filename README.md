@@ -59,10 +59,9 @@ Hear ye, hear ye! Herein be inscribed the noble instruments employed in my most 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KingKai025&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KingKai025&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KingKai025&theme=dark&hide_border=false)<br/>
 
----
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

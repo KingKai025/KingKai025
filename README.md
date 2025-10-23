@@ -2,12 +2,12 @@
 
 <a href="https://www.linkedin.com/in/praise-king-5248b1351"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
 ## Objective
 🌱 Aspiring Cybersecurity professional showcasing my learning journey in tech.<br/>
 🤔 Studied Cybersecurity at the university of EDUVOS, South Africa.<br/>
 📫 Successfully obtained the CompTIA A+, N+, and S+ certifications.<br/>
 ⚡ Now onto bigger things... <br/>
+
 ---
 
 ## Certifications

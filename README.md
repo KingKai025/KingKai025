@@ -9,15 +9,14 @@
 ⚡ Now onto bigger things... <br/>
 
 ---
-
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
----
 
+---
 ## Tools
 Hear ye, hear ye! Herein be inscribed the noble instruments employed in my most perilous inquiry into the dark arts of cyber villainy!
 
@@ -34,8 +33,8 @@ Hear ye, hear ye! Herein be inscribed the noble instruments employed in my most 
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
----
 
+---
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -46,8 +45,8 @@ Hear ye, hear ye! Herein be inscribed the noble instruments employed in my most 
 | - | - |
 | - | - |
 | - | - |
----
 
+---
 ## Projects
 - <a href="https://kingkai025.github.io/HTMLproject/">HTML Project: Building a website</a>
 - Building A Home Lab

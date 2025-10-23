@@ -1,5 +1,7 @@
 # Hi, I'm Praise!
 
+<a href="https://www.linkedin.com/in/praise-king-5248b1351"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 🌱 Cybersecurity professional showcasing my learning journey in tech.<br/>
 😄 Studied Cybersecurity at the university of EDUVOS, South Africa.<br/>
 🔭 Successfully obtained the CompTIA A+, N+, and S+ certifications.<br/>
@@ -37,7 +39,6 @@ Here are some ideas to get you started:
 ---
 
 # Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 

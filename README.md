@@ -42,9 +42,9 @@ Hear ye, hear ye! Herein be inscribed the noble instruments employed in my most 
 | Building a home lab | <a href="https://github.com/KingKai025/Home-Lab-Project/" >Home Lab</a> |
 | Generating telemetry| <a href="https://github.com/KingKai025/Telemetry-Detection-Lab" >Telemetry Detection Lab</a> |
 | Basics in Front-end web development using HTML, CSS and JavaScript | <a href="https://kingkai025.github.io/HTMLproject/" >Basic Website Design</a> |
-| - | - |
-| - | - |
-| - | - |
+| - | loading... |
+| - | loading... |
+| - | loading... |
 
 ---
 ## Projects

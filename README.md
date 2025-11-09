@@ -51,6 +51,8 @@ Hear ye, hear ye! Herein be inscribed the noble instruments employed in my most 
 - <a href="https://kingkai025.github.io/HTMLproject/">HTML Project: Building a website</a>
 - <a href="https://github.com/KingKai025/Home-Lab-Project/">Building A Home Lab</a>
 - <a href="https://github.com/KingKai025/Telemetry-Detection-Lab">Telemetry Detection Lab</a>
+- Splunk Introduction
+- Python Automation
 - Windows Active Directory
 - SOC environment
 - SOC automation

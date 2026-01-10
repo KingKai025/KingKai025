@@ -40,7 +40,7 @@ Hear ye, hear ye! Herein be inscribed the noble instruments employed in my most 
 | Building a home lab | <a href="https://github.com/KingKai025/Home-Lab-Project/" >Home Lab</a> |
 | Generating telemetry| <a href="https://github.com/KingKai025/Telemetry-Detection-Lab" >Telemetry Detection Lab</a> |
 | Basics in Front-end web development using HTML, CSS and JavaScript | <a href="https://kingkai025.github.io/HTMLproject/" >Basic Website Design</a> |
-| pending... | <a href="https://github.com/KingKai025/Python_Automation" >Python Automation</a>  |
+| Password automation, WHOIS lookup, port scanner, and more to come... | <a href="https://github.com/KingKai025/Python_Automation" >Python Automation</a>  |
 | pending...  | pending...  |
 | pending... | pending...  |
 
@@ -49,8 +49,12 @@ Hear ye, hear ye! Herein be inscribed the noble instruments employed in my most 
 - <a href="https://kingkai025.github.io/HTMLproject/">HTML Project: Building a website</a>
 - <a href="https://github.com/KingKai025/Home-Lab-Project/">Building A Home Lab</a>
 - <a href="https://github.com/KingKai025/Telemetry-Detection-Lab">Telemetry Detection Lab</a>
+- <a href="https://github.com/KingKai025/Python_Automation" >Python Automations</a>
+- Wazuh
+- PFSense (network-based firewall)
+- CTFs
+- Wireshark
 - Splunk Introduction
-- Python Automation
 - Windows Active Directory
 - SOC environment
 - SOC automation
